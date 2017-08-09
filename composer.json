@@ -2,7 +2,7 @@
     "name": "0ws0/statistics",
     "type": "library",
     "require": {
-        "php">="5.4"
+        "php":">=5.4"
     },
     "license": "MIT",
     "authors": [
