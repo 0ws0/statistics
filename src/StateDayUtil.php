@@ -1,6 +1,6 @@
 <?php
 /**
- * 按天统计数据组件
+ * 获取统计时间段
  */
 namespace statistics;
 
