@@ -1,4 +1,5 @@
-namespace statistics
+<?php
+namespace statistics;
 
 class StateDayUtil
 {
