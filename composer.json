@@ -1,0 +1,15 @@
+{
+    "name": "0ws0/statistics",
+    "type": "library",
+    "require": {
+        "php": "5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vision",
+            "email": "sunshine77580@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
